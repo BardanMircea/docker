@@ -1,0 +1,5 @@
+services:
+  petite_app:
+    image: petite_app
+    ports:
+      - 4200:4200
